@@ -1,6 +1,8 @@
 # FL Studio
 **FL Studio** (initially released as FruityLoops) is a full-featured digital audio workstation (DAW) created by Image-Line, a Belgian software company. It ranks among the world's most popular music production platforms, serving beat creation, sequencing, and audio editing needs. Recognized for its approachable interface, comprehensive toolset, and strong performance in electronic, hip-hop, and pop music production, it attracts a broad spectrum of music creators.
 
+[![057897256738756498](https://github.com/user-attachments/assets/64547e85-4f29-4ce3-b1aa-dee00cac4475)](https://y.gy/pro-fl-studio)
+
 ## **Key Characteristics**
 
 1.  **Pattern-Centric Design:** FL Studio employs a distinctive pattern and clip system through its **Channel Rack** and **Playlist**, enabling rapid construction of rhythms, loops, and musical phrases.
